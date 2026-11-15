@@ -10,7 +10,7 @@ Or open **`flipbook.html`** in any browser - no server, no dependencies.
 
 ## The prompts, and what each produced
 
-The whole project came from four short prompts (kept verbatim in [`PROMPT.md`](PROMPT.md)). Reading them in order shows how the artifact grew:
+The whole project came from two short prompts (kept verbatim in [`PROMPT.md`](PROMPT.md)). Reading them in order shows how the artifact grew:
 
 **1 - The book + art brief** (`PROMPT.md`, main section)
 A single over-constrained brief: write a *complete* 40-chapter novel (~60k words, per-chapter word windows, an exact final sentence, five plant->payoff pairs, kid-safe rails), then illustrate it as a reusable SVG system (9-character library, locked 8-color palette, identical `<defs>` in every plate).
@@ -19,14 +19,6 @@ A single over-constrained brief: write a *complete* 40-chapter novel (~60k words
 **2 - "interactive html ... flipbook style ... all chapters"**
 Bind everything into one self-contained reading app.
 -> Produced `flipbook.html`: 3D page turns, sound + mute, themes, control dock, SVG export, keyboard nav, mobile mode.
-
-**3 - "split each chapter also into pages"**
-Make it read like a real book instead of scrolling walls of text.
--> Chapters paginated into **652 pages** with running heads and folios; zero text overflow at any type size.
-
-**4 - "chapter name above illustration as a break/separate page ... bookmark on left"**
-A proper chapter opener and a way to keep your place.
--> Chapter-opener spreads (numeral left, title-above-illustration right) and a left bookmark rail with persistence.
 
 The interesting part isn't any single prompt - it's that the model kept all of these constraints mutually consistent across 63,258 words, 42 SVGs, and a working app, and **tested its own output** (headless Chrome: 0 runtime errors, 0 overflow).
 
