@@ -4,7 +4,7 @@
   <path d="M 520 138 l 14 26 l 14 -26 Z" fill="#E9C46A"/>
   <rect x="480" y="240" width="240" height="120" fill="#FFF8EC"/>
   <text x="600" y="280" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2B2B2B">FIRST DAY OF FALL</text>
-  <text x="600" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2B2B2B">PICNIC — TOMORROW</text>
+  <text x="600" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2B2B2B">PICNIC - TOMORROW</text>
   <text x="600" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8B5E3C">bring a thing</text>
   <use href="#ollie" transform="translate(200,224) scale(0.6)"/>
   <use href="#captain-chomp" transform="translate(300,308) scale(0.45)"/>
