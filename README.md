@@ -2,7 +2,9 @@
 
 A complete children's novel, its illustration system, and an interactive flipbook - produced by **Qwen (qwen-4 preview)** running in **[Jouzu](https://shisa.ai)** (shisa.ai's coding-agent harness). This repo ships the **book + the prompts + this README**; the long-form write-up is published separately on dev.to.
 
-Open **`flipbook.html`** in any browser - no server, no dependencies.
+**Read it live:** https://murukesh.github.io/bureau-of-lost-things/
+
+Or open **`flipbook.html`** in any browser - no server, no dependencies.
 
 ---
 
