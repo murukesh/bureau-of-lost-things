@@ -1,0 +1,13 @@
+  <path d="M 40 120 Q 200 160 400 120 Q 600 160 760 120" fill="none" stroke="#E4572E" stroke-width="5"/>
+  <path d="M 120 138 l 14 26 l 14 -26 Z" fill="#E9C46A"/>
+  <path d="M 320 138 l 14 26 l 14 -26 Z" fill="#2A9D8F"/>
+  <path d="M 520 138 l 14 26 l 14 -26 Z" fill="#E9C46A"/>
+  <rect x="480" y="240" width="240" height="120" fill="#FFF8EC"/>
+  <text x="600" y="280" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2B2B2B">FIRST DAY OF FALL</text>
+  <text x="600" y="308" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2B2B2B">PICNIC — TOMORROW</text>
+  <text x="600" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8B5E3C">bring a thing</text>
+  <use href="#ollie" transform="translate(200,224) scale(0.6)"/>
+  <use href="#captain-chomp" transform="translate(300,308) scale(0.45)"/>
+  <use href="#pip" transform="translate(400,168) scale(0.7)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the long way home</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the label's a promise</text>

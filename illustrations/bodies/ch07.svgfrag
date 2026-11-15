@@ -1,0 +1,14 @@
+  <rect x="40" y="300" width="240" height="260" fill="#8B5E3C"/>
+  <line x1="40" y1="390" x2="280" y2="390"/>
+  <line x1="40" y1="470" x2="280" y2="470"/>
+  <path d="M 70 340 q 0 -24 20 -24 q 20 0 20 24 l 0 16 l -40 0 Z" fill="#9AA5B1"/>
+  <path d="M 150 340 q 0 -24 20 -24 q 20 0 20 24 l 0 16 l -40 0 Z" fill="#E9C46A"/>
+  <path d="M 70 420 q 0 -24 20 -24 q 20 0 20 24 l 0 16 l -40 0 Z" fill="#2A9D8F"/>
+  <path d="M 150 420 q 0 -24 20 -24 q 20 0 20 24 l 0 16 l -40 0 Z" fill="#E4572E"/>
+  <rect x="60" y="500" width="180" height="30" fill="#FFF8EC"/>
+  <text x="150" y="521" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2B2B2B">WARM BREAKFAST RADIO</text>
+  <use href="#thimble" transform="translate(430,224) scale(0.6)"/>
+  <use href="#pip" transform="translate(600,168) scale(0.7)"/>
+  <use href="#ollie" transform="translate(720,252) scale(0.55)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">sock science</text>
+  <text x="430" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">a sock cannot lie</text>

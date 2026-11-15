@@ -1,0 +1,14 @@
+  <path d="M 480 560 Q 600 300 760 240 L 800 240 L 800 560 Z" fill="#C9A66B"/>
+  <rect x="620" y="180" width="120" height="120" fill="#8B5E3C"/>
+  <rect x="640" y="200" width="30" height="30" fill="#FFF8EC"/>
+  <rect x="690" y="200" width="30" height="30" fill="#FFF8EC"/>
+  <line x1="120" y1="300" x2="120" y2="560"/>
+  <line x1="60" y1="340" x2="180" y2="340"/>
+  <rect x="130" y="360" width="120" height="28" fill="#FFF8EC"/>
+  <text x="190" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2B2B2B">HUM: LOUDER HERE</text>
+  <rect x="130" y="410" width="110" height="28" fill="#FFF8EC"/>
+  <text x="185" y="430" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2B2B2B">HUM: UNDER</text>
+  <use href="#pip" transform="translate(300,168) scale(0.7)"/>
+  <use href="#goldie" transform="translate(430,224) scale(0.6)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the hum</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">mapping a noise</text>

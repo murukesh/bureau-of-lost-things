@@ -1,0 +1,10 @@
+  <rect x="600" y="180" width="160" height="380" fill="#8B5E3C"/>
+  <circle cx="620" cy="370" r="10" fill="#E9C46A"/>
+  <use href="#snell" transform="translate(280,112) scale(0.8)"/>
+  <use href="#captain-chomp" transform="translate(400,280) scale(0.5)"/>
+  <use href="#ollie" transform="translate(500,252) scale(0.55)"/>
+  <use href="#barnaby" transform="translate(120,168) scale(0.7)"/>
+  <rect x="360" y="480" width="180" height="40" fill="#FFF8EC"/>
+  <text x="450" y="506" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2B2B2B">GOING HOME</text>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">one dinosaur, express delivery</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the Keeper protested</text>

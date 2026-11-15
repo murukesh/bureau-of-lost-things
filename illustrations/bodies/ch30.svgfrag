@@ -1,0 +1,12 @@
+  <rect x="440" y="200" width="240" height="360" fill="#8B5E3C"/>
+  <rect x="680" y="280" width="100" height="280" fill="#C9A66B"/>
+  <rect x="470" y="240" width="50" height="50" fill="#FFF8EC"/>
+  <rect x="560" y="240" width="50" height="50" fill="#FFF8EC"/>
+  <rect x="700" y="320" width="50" height="50" fill="#FFF8EC"/>
+  <path d="M 440 200 L 560 130 L 680 200 Z" fill="#E4572E"/>
+  <path d="M 680 280 L 730 240 L 780 280 Z" fill="#E4572E"/>
+  <use href="#pip" transform="translate(180,168) scale(0.7)"/>
+  <use href="#ollie" transform="translate(300,252) scale(0.55)"/>
+  <use href="#barnaby" transform="translate(90,224) scale(0.6)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">a new room</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the false victory</text>

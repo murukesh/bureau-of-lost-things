@@ -1,0 +1,18 @@
+  <rect x="120" y="220" width="560" height="300" fill="#8B5E3C"/>
+  <circle cx="200" cy="290" r="20" fill="#2A9D8F"/>
+  <text x="200" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#FFF8EC">finds the off</text>
+  <path d="M 300 270 l 0 40 q 0 12 12 12" fill="none" stroke="#9AA5B1" stroke-width="6"/>
+  <text x="310" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#FFF8EC">opens panel</text>
+  <circle cx="420" cy="290" r="18" fill="none" stroke="#E4572E" stroke-width="6"/>
+  <text x="420" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#FFF8EC">starts trail</text>
+  <circle cx="520" cy="290" r="16" fill="#E9C46A"/>
+  <circle cx="520" cy="290" r="4" fill="#2B2B2B"/>
+  <text x="520" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#FFF8EC">jams gears</text>
+  <path d="M 600 270 q 0 -22 18 -22 q 18 0 18 22 l 0 14 l -36 0 Z" fill="#9AA5B1"/>
+  <text x="618" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#FFF8EC">leads home</text>
+  <rect x="330" y="380" width="140" height="40" fill="#FFF8EC"/>
+  <text x="400" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2B2B2B">FOUND. COMES BACK TO.</text>
+  <use href="#pip" transform="translate(80,252) scale(0.55)"/>
+  <use href="#goldie" transform="translate(720,252) scale(0.55)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the plan</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">useless, so ready</text>

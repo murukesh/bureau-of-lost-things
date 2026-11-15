@@ -1,0 +1,11 @@
+  <rect x="40" y="240" width="300" height="16" fill="#8B5E3C"/>
+  <rect x="70" y="190" width="60" height="50" fill="#FFF8EC" stroke-dasharray="6 6"/>
+  <rect x="160" y="190" width="60" height="50" fill="#FFF8EC" stroke-dasharray="6 6"/>
+  <rect x="250" y="190" width="60" height="50" fill="#FFF8EC" stroke-dasharray="6 6"/>
+  <rect x="480" y="420" width="240" height="140" fill="#8B5E3C"/>
+  <use href="#barnaby" transform="translate(600,140) scale(0.75)"/>
+  <use href="#captain-chomp" transform="translate(560,308) scale(0.45)"/>
+  <use href="#pip" transform="translate(180,224) scale(0.6)"/>
+  <use href="#ollie" transform="translate(320,280) scale(0.5)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">loved best</text>
+  <text x="600" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the warmest thing</text>

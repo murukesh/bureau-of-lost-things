@@ -1,0 +1,14 @@
+  <path d="M 480 560 Q 600 300 760 240 L 800 240 L 800 560 Z" fill="#C9A66B"/>
+  <rect x="620" y="160" width="140" height="140" fill="#E9C46A"/>
+  <circle cx="660" cy="200" r="20" fill="#C9A66B"/>
+  <circle cx="720" cy="230" r="16" fill="#C9A66B"/>
+  <circle cx="120" cy="300" r="10" fill="#8B5E3C"/>
+  <circle cx="200" cy="240" r="10" fill="#2A9D8F"/>
+  <circle cx="300" cy="200" r="10" fill="#E9C46A"/>
+  <path d="M 150 420 q 0 -22 18 -22 q 18 0 18 22 l 0 14 l -36 0 Z" fill="#9AA5B1"/>
+  <path d="M 260 360 q 0 -22 18 -22 q 18 0 18 22 l 0 14 l -36 0 Z" fill="#E4572E"/>
+  <path d="M 360 300 L 360 380 M 344 300 Q 360 270 376 300 Z" fill="#2A9D8F"/>
+  <use href="#pip" transform="translate(120,224) scale(0.6)"/>
+  <use href="#goldie" transform="translate(260,252) scale(0.55)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">learned to want</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the hill grew teeth</text>

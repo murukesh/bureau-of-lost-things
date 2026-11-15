@@ -1,0 +1,25 @@
+# Secrets & local env — never commit
+.env
+.env.*
+
+# Node scaffolding from an unrelated benchmark (not part of this project)
+node_modules/
+package.json
+package-lock.json
+
+# OS / editor / harness state
+.DS_Store
+.pi/
+
+# Write-ups live on dev.to / X, not in the repo
+blog_post.md
+devto_post.md
+x_thread.md
+
+# Redundant / working extras (kept on disk, not committed)
+complete_book.md
+docs/
+_planning/
+x_thread.md
+devto_post.md
+blog_post.md

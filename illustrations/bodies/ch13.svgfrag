@@ -1,0 +1,15 @@
+  <path d="M 0 560 Q 300 520 500 400 Q 650 310 780 280 L 800 280 L 800 560 Z" fill="#C9A66B"/>
+  <circle cx="120" cy="530" r="12" fill="#8B5E3C"/>
+  <circle cx="220" cy="505" r="12" fill="#2A9D8F"/>
+  <circle cx="320" cy="470" r="12" fill="#E9C46A"/>
+  <circle cx="420" cy="425" r="12" fill="#E4572E"/>
+  <circle cx="520" cy="375" r="12" fill="#9AA5B1"/>
+  <circle cx="620" cy="330" r="12" fill="#E9C46A"/>
+  <circle cx="120" cy="530" r="3" fill="#2B2B2B"/>
+  <circle cx="320" cy="470" r="3" fill="#2B2B2B"/>
+  <circle cx="520" cy="375" r="3" fill="#2B2B2B"/>
+  <use href="#thimble" transform="translate(200,280) scale(0.5)"/>
+  <use href="#pip" transform="translate(360,224) scale(0.6)"/>
+  <use href="#goldie" transform="translate(480,252) scale(0.55)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">nervous buttons</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">somebody undid my promise</text>

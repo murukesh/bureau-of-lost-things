@@ -1,0 +1,11 @@
+  <path d="M 90 200 L 90 480 M 70 200 Q 90 160 110 200 Z" fill="#2A9D8F"/>
+  <path d="M 170 220 L 170 480 M 150 220 Q 170 180 190 220 Z" fill="#E4572E"/>
+  <path d="M 250 200 L 250 480 M 230 200 Q 250 160 270 200 Z" fill="#E9C46A"/>
+  <rect x="60" y="480" width="240" height="20" fill="#8B5E3C"/>
+  <rect x="480" y="220" width="160" height="340" fill="#2A9D8F"/>
+  <circle cx="615" cy="390" r="10" fill="#E9C46A"/>
+  <rect x="500" y="430" width="120" height="34" fill="#FFF8EC" transform="rotate(-4 560 447)"/>
+  <text x="560" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2B2B2B" transform="rotate(-4 560 447)">FOUND. COMES BACK TO.</text>
+  <use href="#pip" transform="translate(380,112) scale(0.8)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the umbrella orchard</text>
+  <text x="180" y="540" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2B2B2B">PLEASE DO NOT WATER</text>

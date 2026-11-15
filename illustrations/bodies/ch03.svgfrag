@@ -1,0 +1,12 @@
+  <rect x="60" y="330" width="220" height="230" fill="#8B5E3C"/>
+  <rect x="80" y="350" width="180" height="40" fill="#FFF8EC"/>
+  <text x="170" y="377" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2B2B2B">LOST AND FOUND</text>
+  <path d="M 100 330 q 0 -26 22 -26 q 22 0 22 26" fill="#E4572E"/>
+  <rect x="330" y="240" width="150" height="320" fill="#2A9D8F"/>
+  <circle cx="455" cy="400" r="10" fill="#E9C46A"/>
+  <rect x="350" y="270" width="110" height="34" fill="#FFF8EC"/>
+  <text x="405" y="292" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2B2B2B">BUREAU OF LOST THINGS</text>
+  <use href="#pip" transform="translate(580,112) scale(0.8)"/>
+  <use href="#ollie" transform="translate(700,224) scale(0.6)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">a small green door</text>
+  <text x="405" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">PLEASE KNOCK</text>

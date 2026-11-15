@@ -1,0 +1,13 @@
+  <rect x="440" y="180" width="320" height="380" fill="#E9C46A"/>
+  <circle cx="520" cy="260" r="34" fill="#C9A66B"/>
+  <circle cx="680" cy="300" r="28" fill="#C9A66B"/>
+  <circle cx="540" cy="480" r="26" fill="#C9A66B"/>
+  <rect x="580" y="330" width="70" height="90" fill="#FFF8EC"/>
+  <rect x="600" y="356" width="30" height="18" fill="#9AA5B1"/>
+  <path d="M 120 520 Q 300 500 440 440 Q 520 400 580 380" fill="none" stroke="#2A9D8F" stroke-width="4" stroke-dasharray="8 8"/>
+  <circle cx="180" cy="512" r="18" fill="#2A9D8F"/>
+  <path d="M 172 505 q 8 -6 16 0" fill="none" stroke="#E9C46A" stroke-width="4"/>
+  <use href="#goldie" transform="translate(120,224) scale(0.6)"/>
+  <use href="#pip" transform="translate(280,252) scale(0.55)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the marble</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the free thing</text>

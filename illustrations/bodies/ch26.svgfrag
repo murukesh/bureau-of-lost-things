@@ -1,0 +1,14 @@
+  <rect x="200" y="200" width="400" height="360" fill="#E9C46A"/>
+  <circle cx="280" cy="280" r="40" fill="#C9A66B"/>
+  <circle cx="280" cy="280" r="12" fill="#8B5E3C"/>
+  <circle cx="520" cy="300" r="34" fill="#C9A66B"/>
+  <circle cx="520" cy="300" r="10" fill="#8B5E3C"/>
+  <circle cx="300" cy="480" r="30" fill="#C9A66B"/>
+  <circle cx="500" cy="480" r="26" fill="#C9A66B"/>
+  <rect x="360" y="330" width="80" height="100" fill="#FFF8EC"/>
+  <rect x="384" y="360" width="32" height="20" fill="#9AA5B1"/>
+  <circle cx="400" cy="370" r="4" fill="#2B2B2B"/>
+  <use href="#snell" transform="translate(120,168) scale(0.7)"/>
+  <use href="#pip" transform="translate(680,224) scale(0.6)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the heart</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the first thing</text>

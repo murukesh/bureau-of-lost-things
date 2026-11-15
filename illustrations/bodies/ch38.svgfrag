@@ -1,0 +1,13 @@
+  <rect x="440" y="200" width="320" height="360" fill="#E9C46A"/>
+  <circle cx="520" cy="280" r="34" fill="#C9A66B"/>
+  <circle cx="680" cy="300" r="28" fill="#C9A66B"/>
+  <rect x="580" y="340" width="70" height="90" fill="#FFF8EC"/>
+  <line x1="615" y1="385" x2="650" y2="350"/>
+  <circle cx="650" cy="350" r="10" fill="#E4572E"/>
+  <use href="#snell" transform="translate(280,112) scale(0.8)"/>
+  <rect x="320" y="430" width="40" height="26" fill="#9AA5B1"/>
+  <circle cx="340" cy="443" r="4" fill="#2B2B2B"/>
+  <use href="#pip" transform="translate(120,252) scale(0.55)"/>
+  <use href="#ollie" transform="translate(200,308) scale(0.45)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the keeping lever</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">the love stays</text>

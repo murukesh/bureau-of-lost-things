@@ -1,0 +1,10 @@
+  <rect x="40" y="240" width="300" height="16" fill="#8B5E3C"/>
+  <rect x="60" y="190" width="60" height="50" fill="#E9C46A"/>
+  <rect x="140" y="190" width="60" height="50" fill="#2A9D8F"/>
+  <rect x="220" y="190" width="60" height="50" fill="#FFF8EC"/>
+  <path d="M 480 380 q 0 -40 34 -40 q 34 0 34 40 l 0 30 l -20 0 l 0 -18 q 0 -10 -14 -10 q -14 0 -14 10 l 0 18 l -20 0 Z" fill="#E4572E"/>
+  <use href="#snell" transform="translate(620,112) scale(0.8)"/>
+  <use href="#pip" transform="translate(180,224) scale(0.6)"/>
+  <use href="#goldie" transform="translate(320,252) scale(0.55)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">a museum of almosts</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">kept is not warm</text>

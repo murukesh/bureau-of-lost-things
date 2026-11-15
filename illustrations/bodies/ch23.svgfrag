@@ -1,0 +1,11 @@
+  <rect x="480" y="300" width="240" height="260" fill="#8B5E3C"/>
+  <rect x="500" y="240" width="200" height="60" fill="#C9A66B"/>
+  <path d="M 560 520 q 0 -26 34 -26 q 34 0 34 26 l 0 12 l -68 0 Z" fill="#2A9D8F"/>
+  <ellipse cx="600" cy="470" rx="60" ry="20" fill="#FFF8EC" stroke-dasharray="6 6"/>
+  <line x1="700" y1="320" x2="700" y2="380"/>
+  <circle cx="700" cy="390" r="10" fill="none"/>
+  <use href="#snell" transform="translate(300,112) scale(0.8)"/>
+  <use href="#pip" transform="translate(120,280) scale(0.5)"/>
+  <use href="#ollie" transform="translate(220,320) scale(0.45)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the dog-shaped hole</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">never once late</text>

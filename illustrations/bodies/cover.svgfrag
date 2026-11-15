@@ -1,0 +1,12 @@
+  <text x="400" y="88" text-anchor="middle" font-family="sans-serif" font-size="62" font-weight="bold" fill="#2B2B2B">PIP PARKER</text>
+  <text x="400" y="140" text-anchor="middle" font-family="sans-serif" font-size="28" fill="#2B2B2B">AND THE BUREAU OF LOST THINGS</text>
+  <use href="#snell" transform="translate(110,78) scale(0.7)"/>
+  <use href="#barnaby" transform="translate(275,50) scale(0.75)"/>
+  <use href="#miss-whisk" transform="translate(430,134) scale(0.6)"/>
+  <use href="#thimble" transform="translate(540,162) scale(0.55)"/>
+  <use href="#biscuit" transform="translate(665,134) scale(0.6)"/>
+  <use href="#goldie" transform="translate(175,84) scale(0.85)"/>
+  <use href="#pip" transform="translate(360,56) scale(0.9)"/>
+  <use href="#ollie" transform="translate(480,140) scale(0.75)"/>
+  <use href="#captain-chomp" transform="translate(600,112) scale(0.8)"/>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#8B5E3C">every lost thing waits</text>

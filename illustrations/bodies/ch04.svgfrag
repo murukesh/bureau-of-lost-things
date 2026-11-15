@@ -1,0 +1,12 @@
+  <rect x="40" y="120" width="720" height="14" fill="#8B5E3C"/>
+  <rect x="40" y="200" width="720" height="14" fill="#8B5E3C"/>
+  <rect x="70" y="90" width="40" height="30" fill="#E9C46A"/>
+  <rect x="130" y="80" width="34" height="40" fill="#2A9D8F"/>
+  <rect x="620" y="86" width="44" height="34" fill="#E4572E"/>
+  <rect x="250" y="430" width="300" height="130" fill="#8B5E3C"/>
+  <rect x="270" y="400" width="120" height="30" fill="#FFF8EC"/>
+  <use href="#barnaby" transform="translate(400,112) scale(0.8)"/>
+  <use href="#pip" transform="translate(150,168) scale(0.7)"/>
+  <use href="#ollie" transform="translate(640,252) scale(0.55)"/>
+  <text x="400" y="60" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#8B5E3C">the Chief</text>
+  <text x="400" y="592" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2B2B2B">always a form</text>
